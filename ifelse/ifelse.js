@@ -1,6 +1,8 @@
+// variable
 let namaSaya = "Putra"
 let pacar = 5
 
+// if else 
 if(namaSaya == "Putra Gilang Ramadan") {
     document.write("Ya! Kamu Putra Gilang Ramadan")
 }else if ( namaSaya == "Putra"){
