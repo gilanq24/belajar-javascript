@@ -17,11 +17,6 @@ let variableKosong // belum di masukin data hanya baru di definisikan saja
 
 let pacar = null : null kosong juga
 
-pengkondisian pada javascript
-if
-else
-else if
-
 */
 
 var namaProduk = "Aqua Botol" // string
